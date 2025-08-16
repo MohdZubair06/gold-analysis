@@ -16,7 +16,7 @@ df = pd.read_csv(
     "gold_data.csv",
     skiprows=3, 
     names=cols, 
-    parse_dates=['Date']
+    parse_dates=['Date'],
     index_col='Date')
 print(df.head())
 print("Data loaded:", df.shape)
