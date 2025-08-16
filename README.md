@@ -62,13 +62,13 @@ Extend the project with AI/ML techniques:
 ● Create interactive visualizations with `plotly` for enhanced data exploration.
 
 ## 📚 Academic Relevance
-This project prepares me for AI/ML studies by:
+This project prepares me for an AI/ML-focused undergraduate degree by:
 
-● **Data Preprocessing**: Cleaning and transforming financial data.
+● **Data Skills**: Learning to clean and analyze time-series data.
 
-● **Time-Series Analysis**: Computing trends and returns.
+● **Programming**: Gaining Python experience for future ML studies.
 
-● **Machine Learning Potential**: Enabling predictive modeling and feature engineering.
+● **Curiosity**: Exploring predictive modeling potential.
 
 ## 📜 Usage
 This project is intended for academic review and portfolio demonstration.
