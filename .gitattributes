@@ -1,1 +1,11 @@
-Initial commit - Gold Analysis Project
+* text=auto
+
+# Python scripts: use LF line endings
+*.py text eol=lf
+
+# CSV and TXT files: treat as text
+*.csv text
+*.txt text
+
+# PNG images: treat as binary
+*.png binary
